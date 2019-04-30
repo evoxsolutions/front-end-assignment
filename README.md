@@ -32,7 +32,6 @@ Para manter a simplicidade no teste, você utilizará o Firebase para mockar os 
 - [ ] Responsividade (Mobile-First);
 - [ ] Suporte cross-browser;
 - [ ] Testes (Unitários/E2E);
-- [ ] UI seguindo o [Material Design concepts](https://material.io/);
 
 ## O que será avaliado
 
@@ -43,6 +42,7 @@ Para manter a simplicidade no teste, você utilizará o Firebase para mockar os 
 - Sua capacidade de integrar com outras APIs;
 - Sua capacidade de utilizar outras bibliotecas;
 - O seu compromisso com a entrega.
+- Sua capacidade de criar componentes sustentáveis, de fácil manutenção.
 
 ### Após finalizar
 
@@ -51,6 +51,6 @@ Após finalizar o teste, você pode fazer o upload no Github, Bitbucket ou qualq
 ## Dicas
 
 - Você não precisa começar tudo do zero. Você pode encontrar exemplos de implementação pela internet.
-- Você pode utilizar bibliotecas como o [Vuetify](https://vuetifyjs.com/) que já tem o Material UI implementado.
+- Acreditamos bastante em comunicação. Qualquer dúvida referente ao teste, deixa a gente saber, ok?
 
 #### Happy Coding!
